@@ -1,0 +1,17 @@
+//
+//  AppDelegate.h
+//  Twitter Test
+//
+//  Created by Roubinah UTEEME on 18/05/2015.
+//  Copyright (c) 2015 Azerty. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+
+@end
+
